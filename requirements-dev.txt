@@ -1,0 +1,16 @@
+-r requirements.txt
+
+# Testing
+pytest>=6.0.0
+pytest-cov>=2.12.0
+
+# Code quality
+black>=21.5b2
+isort>=5.9.1
+flake8>=3.9.2
+mypy>=0.812
+
+# Documentation
+Sphinx>=4.0.2
+sphinx-rtd-theme>=0.5.2
+nbsphinx>=0.8.6

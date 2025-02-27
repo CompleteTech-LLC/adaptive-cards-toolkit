@@ -1,0 +1,6 @@
+adaptive-cards-py>=0.2.4
+requests>=2.25.0
+
+# Optional dependencies
+# Uncomment to install
+# openai>=1.0.0
